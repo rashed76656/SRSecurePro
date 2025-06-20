@@ -45,7 +45,7 @@ You can manually load SR Secure Pro in your Chrome browser for development or te
     * Download the latest `.zip` archive of SR Secure Pro from our [**Releases Page**](https://github.com/rashed76656/SRSecurePro/releases).
     * Alternatively, clone this repository:
         ```bash
-        git clone [https://github.com/YourUsername/YourRepo.git](https://github.com/rashed76656/SRSecurePro.git)
+        git clone https://github.com/rashed76656/SRSecurePro.git
         ```
 2.  **Extract the Files:** Unzip the downloaded archive to a convenient location on your computer. If you cloned, navigate to the cloned directory.
 3.  **Open Chrome Extensions Page:**
@@ -72,7 +72,7 @@ For a detailed guide on how to use each feature of SR Secure Pro, please refer t
 
 Get the latest version from our [Releases page](https://github.com/YourUsername/YourRepo/releases).
 
-* [SR Secure Pro v1.0.0.zip](https://github.com/rashed76656/SRSecurePro/releases/download/v1.0.0/SR_Secure_Pro_v1.0.0.zip)
+* [SR Secure Pro v1.0.1.zip](https://github.com/rashed76656/SRSecurePro/releases/download/v1.0.1/SR_Secure_Pro_v1.0.1.zip)
 * [User Manual.pdf](https://github.com/rashed76656/SRSecurePro/blob/main/user_manual.pdf)
 
 ---
